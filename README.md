@@ -1,6 +1,6 @@
 # Dump KCM
 
-POC to dump Kerberos tickets from KCM using its socket. See related blog post: [https://lvruibr.github.io/kcmdump](https://lvruibr.github.io/kcmdump)
+POC to dump Kerberos tickets from KCM using its socket. See related blog post: [https://lvruibr.github.io/dumpkcm](https://lvruibr.github.io/dumpkcm)
 
 ## Compilation
 
